@@ -1,19 +1,3 @@
-#Math-maigicians
-
-Create with the aim of mentioning one of the thematics of events that I like the most that is that of the video games and using all my knowledge in the first module of the program microverse to give it form and functionality. 
-
-Will have future changes in the next days! 
-
-<a name="readme-top"></a>
-
-
-<div align="center">
-
-  <h3 id="title"><b>Math-maigicians</b></h3>
-
-</div>
-
-
 
 # 📗 Table of Contents
 
@@ -38,6 +22,20 @@ Will have future changes in the next days!
 - [📝 License](#license)
 
 
+#Math-maigicians
+
+Create with the aim of mentioning one of the thematics of events that I like the most that is that of the video games and using all my knowledge in the right from the first module of the program microverse to give it form and functionality. 
+
+Will have future changes in the next days! 
+
+<a name="readme-top"></a>
+
+
+<div align="center">
+
+  <h3 id="title"><b>Math-magicians</b></h3>
+
+</div>
 
 # 📖 Web page for Gamescom event! <a name="about-project"></a>
 
