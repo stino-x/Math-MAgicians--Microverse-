@@ -1,14 +1,8 @@
-/* eslint-disable import/no-extraneous-dependencies */
-// import PropTypes from 'prop-types';
 import { useContext } from 'react';
 import SharedStateContext from '../../SharedStateContext';
-// import './Calculator.module.css';
-// eslint-disable-next-line import/order
-// import { NavLink } from 'react-router-dom';
 
 export default function Calculatorchildcomp() {
   const { handleClick, displayValue } = useContext(SharedStateContext);
-  // const Display = displayValue.toString();
   const inputValue = parseFloat(displayValue());
   return (
     <main className="calculator-main">
