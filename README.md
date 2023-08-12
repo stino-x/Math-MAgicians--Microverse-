@@ -37,14 +37,17 @@ Will have future changes in the next days!
 
 </div>
 
-# 📖 Web page for Gamescom event! <a name="about-project"></a>
-
+# 📖 Web page for Calculator <a name="about-project"></a>
+> Math magicians
 > This is the first project of the react series im cirruntly in the aim is to use the elements of the react framework to develop a simple calculator
+
+
+# 📖Description <a name="about-project"></a>
+> this is a simple calculator amde with react
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- HTML
-- JS
+-REACT
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -53,6 +56,7 @@ Will have future changes in the next days!
   <ul>
     <li><a href="https://reactjs.org/">HTML</a></li>
     <li><a href="https://reactjs.org/">CSS</a></li>
+    <li><a href="https://reactjs.org/">JS(react)</a></li>
   </ul>
 </details>
 
@@ -63,12 +67,6 @@ Will have future changes in the next days!
 1 Add HTML <br>
 3 Add JS<br> 
 4 add linters<br>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-<p> Checkout my Awesome book   target="_blank" rel="noopener noreferrer"> here!</a> </p>  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,7 +113,7 @@ Run command:
 
 To run the project, execute the following command:
 
-Open index.html using live server extension.
+npm start
 
 ### Run tests
 
@@ -134,8 +132,7 @@ I use Github pages for the deployment of this web page.
 👤 **Iheagwara Augustine**
 
 - GitHub: [@githubhandle](https://github.com/stino-x)
-- Twitter: [@twitterhandle](https://twitter.com/Austin)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/iheagwaraAugustine/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/augustine-iheagwara-644b11228/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
