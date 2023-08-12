@@ -35,7 +35,3 @@ export default function RootLayout() {
     </div>
   );
 }
-
-// Inputarea.propTypes = {
-//   input: PropTypes.string.isRequired,
-// };

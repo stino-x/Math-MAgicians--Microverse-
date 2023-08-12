@@ -46,6 +46,3 @@ export default function Calculatorchildcomp() {
     </main>
   );
 }
-// Calculatorchildcomp.propTypes = {
-//   displayValue: PropTypes.string.isRequired,
-// };
