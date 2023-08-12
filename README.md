@@ -9,7 +9,7 @@ Will have future changes in the next days!
 
 <div align="center">
 
-  <h3 id="title"><b>Awesome Books</b></h3>
+  <h3 id="title"><b>Math-maigicians</b></h3>
 
 </div>
 
@@ -41,8 +41,7 @@ Will have future changes in the next days!
 
 # 📖 Web page for Gamescom event! <a name="about-project"></a>
 
-> Testing all the information learned in the course in the areas of HTML, CSS and JS to achieve the results shown..
-> You can watch this video of me commenting on my first advances in creating this web page and how I felt in the process and the Features I added. 
+> This is the first project of the react series im cirruntly in the aim is to use the elements of the react framework to develop a simple calculator
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -126,7 +125,7 @@ Work in progress.
 
 ### Deployment
 
-I use Githud pages for the deployment of this web page.
+I use Github pages for the deployment of this web page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +137,7 @@ I use Githud pages for the deployment of this web page.
 
 - GitHub: [@githubhandle](https://github.com/stino-x)
 - Twitter: [@twitterhandle](https://twitter.com/Austin)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/iheagwara Augustine/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/iheagwaraAugustine/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
