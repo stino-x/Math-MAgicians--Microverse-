@@ -1,7 +1,4 @@
 import React from 'react';
-// import './Page1.module.css';
-// eslint-disable-next-line import/no-extraneous-dependencies
-// import { NavLink } from 'react-router-dom';
 
 export default function Page1() {
   return (

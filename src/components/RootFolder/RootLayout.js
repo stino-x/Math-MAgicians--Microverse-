@@ -1,14 +1,5 @@
-/* eslint-disable import/no-extraneous-dependencies */
-
-// import { useContext } from 'react';
 import { NavLink, Outlet, useLocation } from 'react-router-dom';
 import './RootLayout.css';
-// import 'src/components/Page-1/Page1.module.css';
-// import 'src/components/Quote/Quote.module.css';
-// import 'src/components/Calculator-Folder/Calculator.module.css';
-// import SharedStateContext from '../SharedStateContext';
-// import Navigation from './Navigation';
-// import Footer from './Footer';
 
 export default function RootLayout() {
   const location = useLocation();
@@ -45,7 +36,3 @@ export default function RootLayout() {
     </div>
   );
 }
-
-// Inputarea.propTypes = {
-//   input: PropTypes.string.isRequired,
-// };

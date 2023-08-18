@@ -26,12 +26,6 @@ body {
   width: 100%;
 }
 
-/* .body-container {
-  display: grid;
-  grid-template-rows: 8% 87% 5%;
-  grid-row-gap: 3%;
-} */
-
 .Page1-list {
   list-style: none;
   display: flex;

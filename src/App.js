@@ -1,8 +1,6 @@
-// eslint-disable-next-line import/no-extraneous-dependencies
 import {
   Route, RouterProvider, createBrowserRouter, createRoutesFromElements,
 } from 'react-router-dom';
-// import Calculator from './components/Calculator';
 import Calculatorchildcomp from './components/Calculator-Folder/Calculator-childcomponent';
 import Quote from './components/Quote/Quote';
 import { SharedStateProvider } from './SharedStateContext';
