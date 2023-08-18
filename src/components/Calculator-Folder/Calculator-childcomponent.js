@@ -3,7 +3,6 @@ import SharedStateContext from '../../SharedStateContext';
 
 export default function Calculatorchildcomp() {
   const { handleClick, displayValue } = useContext(SharedStateContext);
-  // const Display = displayValue.toString();
   const inputValue = parseFloat(displayValue());
   return (
     <main className="calculator-main">
