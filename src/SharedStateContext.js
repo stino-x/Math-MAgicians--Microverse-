@@ -1,4 +1,3 @@
-// SharedStateContext.js
 import { createContext, useState } from 'react';
 import PropTypes from 'prop-types';
 import calculate from './components/logic/Calculate';
@@ -39,7 +38,7 @@ export function SharedStateProvider({ children }) {
 }
 
 SharedStateProvider.propTypes = {
-  children: PropTypes.node.isRequired, // Validate children as a node (React node)
+  children: PropTypes.node.isRequired,
 };
 
 export default SharedStateContext;

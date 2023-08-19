@@ -8,7 +8,7 @@ export default function RootLayout() {
   const getBodyClass = () => {
     switch (location.pathname) {
       case '/':
-        return 'body-container';
+        return 'Page1-container';
       case '/calculator':
         return 'body-container';
       case '/quote':
@@ -24,7 +24,8 @@ export default function RootLayout() {
       <nav className="quote-nav Page1-nav calculator-nav">
         <h1 className="quote-header Page1-head calculator-header">Math magicians</h1>
         <ul className="quote-lists Page1-list calculator-links">
-          <li className="quote-listitem Page1-listitems calculator-listitem"><NavLink to="/">Calculator</NavLink></li>
+          <li className="quote-listitem Page1-listitems calculator-listitem"><NavLink to="/">Home</NavLink></li>
+          <li className="quote-listitem Page1-listitems calculator-listitem"><NavLink to="calculator">Calculator</NavLink></li>
           <li className="quote-listitem Page1-listitems calculator-listitem"><NavLink to="quote">Quote</NavLink></li>
         </ul>
       </nav>

@@ -5,12 +5,14 @@ import Calculatorchildcomp from './components/Calculator-Folder/Calculator-child
 import Quote from './components/Quote/Quote';
 import { SharedStateProvider } from './SharedStateContext';
 import RootLayout from './components/RootFolder/RootLayout';
+import Page1 from './components/Page-1/Page1';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<RootLayout />}>
+      <Route index element={<Page1 />} />
       <Route path="quote" element={<Quote />} />
-      <Route index element={<Calculatorchildcomp />} />
+      <Route path="calculator" element={<Calculatorchildcomp />} />
     </Route>,
   ),
 );
